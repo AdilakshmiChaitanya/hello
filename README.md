@@ -1,2 +1,1 @@
-# hello
-I want to create a new repository.
+This is the second example.
